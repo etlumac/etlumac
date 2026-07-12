@@ -6,10 +6,6 @@ I work as an ML Engineer at Nexign, and I'm finishing a master's at ITMO in AI s
 
 ### What I actually do
 
-Outside of work, most of what's in my repos comes from wanting to actually understand how things work rather than just import them. So instead of only using PyTorch or scikit-learn, I've rebuilt a fair amount from scratch — SVM through its dual problem, gradient boosting, an LSTM with manual backprop through time, a GAN+VAE hybrid. It's slower than just calling `.fit()`, but it means I can actually explain what's happening  in code.
-
-### Skills, roughly grouped
-
 **LLM / RAG** — building RAG pipelines end to end: document parsing, chunking, embeddings, vector search (Qdrant, FAISS), prompt engineering, content moderation layers, wiring things up to LLM APIs.
 
 **Classic ML** — scikit-learn and CatBoost day to day, but I've also implemented linear models, SVM, Random Forest, gradient boosting, EM/GMM, PCA, and recommender systems (SLIM, LFM) from scratch to understand the math underneath.
