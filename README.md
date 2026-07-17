@@ -22,7 +22,7 @@ I work as an ML Engineer at Nexign, and I'm finishing a master's at ITMO in AI s
 
 ### A few projects worth looking at
 
-**[ai-tarot](https://github.com/etlumac/ai-tarot)** — RAG service with a multi-layer safety/moderation system on top, split into microservices. Closest thing in my repos to what my day job actually looks like.
+**[ai-tarot](https://github.com/etlumac/ai-tarot)** — service with a multi-layer safety/moderation system on top, split into microservices. Closest thing in my repos to what my day job actually looks like.
 
 **[deep-learning-labs](https://github.com/etlumac/deep-learning-labs)** — CNN, RNN/GRU/LSTM, GAN+VAE, all built from scratch in NumPy, backprop included. If you want to know whether I understand what's happening inside a neural net, this is the one to check.
 
